@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: php-redis
-        image: gcr.io/google-samples/gb-frontend:v4
+        image: 439463768147.dkr.ecr.us-east-2.amazonaws.com/frontend:latest
         resources:
           requests:
             cpu: 100m
