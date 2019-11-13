@@ -3,6 +3,10 @@
 This directory contains a number of examples of how to run real applications
 with Kubernetes.
 
+KeyID : AKIAVG6DFQQ24HA35YOF
+Secret: XX+fPKKHs+7bkXLSXiFC/s6VIIa99fB4MtJSgODL
+
+
 Refer to the [Kubernetes documentation] for how to execute the tutorials.
 
 ### Maintained Examples
